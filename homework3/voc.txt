@@ -1,0 +1,6 @@
+fuzzy 53
+abandon 12
+excited 666
+too 2
+young 10
+naive 76
